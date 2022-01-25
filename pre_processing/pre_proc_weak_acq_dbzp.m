@@ -1,3 +1,11 @@
+%%
+ % Project Title: GNSS-R SDR
+ % Author       : John Bagshaw
+ % Contact      : jotshaw@yorku.ca
+ % Supervisor   : Prof.Sunil Bisnath
+ % Institution  : York University, Canada.
+%%
+
 function pprocSignals = pre_proc_weak_acq_dbzp(sdrParams, caCode)
 
 %%% Parameters
