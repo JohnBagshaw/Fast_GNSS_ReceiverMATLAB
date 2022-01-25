@@ -1,3 +1,11 @@
+%%
+ % Project Title: GNSS-R SDR
+ % Author       : John Bagshaw
+ % Contact      : jotshaw@yorku.ca
+ % Supervisor   : Prof.Sunil Bisnath
+ % Institution  : York University, Canada.
+%%
+
 function acqResults = norm_acq_parcode(sdrParams, ppData, rxFrameData)
 %%% This function runs acquisition algorithm known as 
 % 'Parallel Code Search Acquisition'. The minimum processing
