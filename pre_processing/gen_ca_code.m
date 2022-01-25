@@ -1,3 +1,11 @@
+%%
+ % Project Title: GNSS-R SDR
+ % Author       : John Bagshaw
+ % Contact      : jotshaw@yorku.ca
+ % Supervisor   : Prof.Sunil Bisnath
+ % Institution  : York University, Canada.
+%%
+
 function [ caCode ] = gen_ca_code( filePath, prnList )
 %GEN_CA_CODE Returns C/A code for specified PRN list.
 %   Returns a MxN matrix where each row corresponds to
