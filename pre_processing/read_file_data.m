@@ -1,3 +1,11 @@
+%%
+ % Project Title: GNSS-R SDR
+ % Author       : John Bagshaw
+ % Contact      : jotshaw@yorku.ca
+ % Supervisor   : Prof.Sunil Bisnath
+ % Institution  : York University, Canada.
+%%
+
 function [ outData ] = read_file_data( sdrParams )
 %%%READ_FILE_DATA Read input file data and converts to suitable format.
 %   Reads input file data and returns a cell of dimension
