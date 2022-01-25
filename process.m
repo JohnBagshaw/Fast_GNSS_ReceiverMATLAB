@@ -1,3 +1,11 @@
+%%
+ % Project Title: GNSS-R SDR
+ % Author       : John Bagshaw
+ % Contact      : jotshaw@yorku.ca
+ % Supervisor   : Prof.Sunil Bisnath
+ % Institution  : York University, Canada.
+%%
+
 function [ processResults] = process( sdrParams, ppData, rxData )
 % SUMMARY Function to process coherent processing interval data.
 % This function takes in input Raw data, preprocessed common signals
