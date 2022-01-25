@@ -1,3 +1,11 @@
+%%
+ % Project Title: GNSS-R SDR
+ % Author       : John Bagshaw
+ % Contact      : jotshaw@yorku.ca
+ % Supervisor   : Prof.Sunil Bisnath
+ % Institution  : York University, Canada.
+%%
+
 function [ acqAlgoPprocSignals, rxData] = pre_process(sdrParams)
 %%% pre_process is responsible for configuration of settings
 % and pre-conditioning of the input data.
