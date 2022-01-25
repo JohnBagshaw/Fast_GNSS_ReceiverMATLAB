@@ -1,3 +1,11 @@
+%%
+ % Project Title: GNSS-R SDR
+ % Author       : John Bagshaw
+ % Contact      : jotshaw@yorku.ca
+ % Supervisor   : Prof.Sunil Bisnath
+ % Institution  : York University, Canada.
+%%
+
 %function acqResults = delay_doppler_map(longSignal, settings)
 
 if isequal(settings.acquisitionType, 'weakAcquisition')
