@@ -1,2 +1,1 @@
-Woodbine_47a_1.bin
-Woodbine_47a_2.bin
+NTLab_Bands_GPS_GLONASS_L12.bin
